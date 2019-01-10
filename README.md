@@ -1,18 +1,17 @@
----
-title: "SAS code for Template Matching in VA" 
-author: "Brenda Vincent"
-date: "January 10, 2019"
+SAS code for Template Matching in VA
+By Brenda Vincent
+date: January 10, 2019
 ---
 
-## Overview
+Overview
 
 This repository contains code necessary to perform the simulations and data analysis described in the paper "Template Matching for Benchmarking Hospital Performance in the Veterans Affairs Healthcare System". 
 This paper evaluated a template matching algorithm for benchmarking hospital performance in the VA healthcare system compared to standard regression approaches. Simulations were used to understand the effect 
 of patient case-mix, hospital case-volume and hospital performance.
 
-###Simulations
+Simulations
 
-*The SAS code for each of the simulations are provided:*
+The SAS code for each of the simulations are provided:
 
 •Simulation 1: baseline case
 
@@ -43,6 +42,6 @@ Data Analysis
 
 •The file "Analysis" contains the code for the main analyses (for the simulations) presented in the paper.
 
-The file "Analysis with real data" presents the code for the analysis using real IPEC data, with and without the post-match.
+•The file "Analysis with real data" presents the code for the analysis using real IPEC data, with and without the post-match.
 
-The file "Scenario 8b with post-match" presents the code the for post-hoc analysis of scenario 8b with the post-match adjustment.
+•The file "Scenario 8b with post-match" presents the code the for post-hoc analysis of scenario 8b with the post-match adjustment.
