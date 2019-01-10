@@ -2,7 +2,6 @@
 title: "SAS code for Template Matching in VA" 
 author: "Brenda Vincent"
 date: "January 10, 2019"
-output: html_document
 ---
 
 ## Overview
