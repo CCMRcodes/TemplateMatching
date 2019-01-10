@@ -29,6 +29,7 @@ of patient case-mix, hospital case-volume and hospital performance.
 -Simulation 6b: case-mix varies by predicted mortality and hospital case volume varies
 
 -Simulation 7: hospital performance and hospital case volume varies
+
 -Simulation 8a: case-mix varies by age, hospital performance varies and hospital case volume varies
 
 -Simulation 8b: case-mix varies by predicted mortality, hospital performance varies and hospital case volume varies
